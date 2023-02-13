@@ -3,7 +3,7 @@ package com.example.translator_kmm.translate.presentation
 import com.example.translator_kmm.core.presentation.UiLanguage
 import com.example.translator_kmm.translate.domain.translate.TranslateError
 
-sealed class TranslateState(
+data class TranslateState(
     val fromText: String = "",
     val toText: String? = null,
     val isTranslating: Boolean = false,

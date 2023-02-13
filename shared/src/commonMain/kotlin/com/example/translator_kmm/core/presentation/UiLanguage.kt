@@ -4,7 +4,7 @@ import com.example.translator_kmm.core.domain.languaje.Language
 
 expect class UiLanguage {
 
-    expect val language: Language
+    val language: Language
 
     companion object {
         fun byCode(langCode: String): UiLanguage
