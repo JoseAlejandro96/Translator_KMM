@@ -10,7 +10,7 @@ import com.example.translator_kmm.core.presentation.UiLanguage
 @Composable
 fun SmallLanguageIcon(
     language: UiLanguage,
-    modifier: Modifier
+    modifier: Modifier = Modifier
 ) {
     AsyncImage(
         model = language.drawableRes,
