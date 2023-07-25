@@ -61,3 +61,7 @@ dependencies {
     kaptAndroidTest(Deps.hiltAndroidCompiler)
     androidTestImplementation(Deps.hiltTesting)
 }
+
+task("testClasses").doLast {
+    println("This is a dummy testClasses task")
+}
