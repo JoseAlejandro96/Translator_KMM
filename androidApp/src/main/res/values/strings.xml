@@ -15,4 +15,9 @@
     <string name="unknown_error">Oops, an unknown error happened</string>
     <string name="record_audio">Record Audio</string>
     <string name="speech_recognition_is_not_available">Speech recognition is not available</string>
+    <string name="stop_recording">stop recording</string>
+    <string name="apply">apply</string>
+    <string name="record_again">record again</string>
+    <string name="listening">listening</string>
+    <string name="start_talking">start talking</string>
 </resources>

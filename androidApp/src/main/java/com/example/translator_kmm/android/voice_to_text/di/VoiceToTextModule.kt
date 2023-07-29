@@ -1,7 +1,7 @@
-package com.example.translator_kmm.android.translate.voice_to_text.di
+package com.example.translator_kmm.android.voice_to_text.di
 
 import android.app.Application
-import com.example.translator_kmm.android.translate.voice_to_text.data.AndroidVoiceToTextParser
+import com.example.translator_kmm.android.voice_to_text.data.AndroidVoiceToTextParser
 import com.example.translator_kmm.voice_to_text.domain.VoiceToTextParser
 import dagger.Module
 import dagger.Provides

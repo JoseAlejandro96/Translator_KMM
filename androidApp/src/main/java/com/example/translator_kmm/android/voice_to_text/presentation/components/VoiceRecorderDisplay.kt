@@ -1,4 +1,4 @@
-package com.example.translator_kmm.android.translate.voice_to_text.presentation.components
+package com.example.translator_kmm.android.voice_to_text.presentation.components
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxWidth

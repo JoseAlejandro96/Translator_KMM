@@ -1,4 +1,4 @@
-package com.example.translator_kmm.android.translate.voice_to_text.presentation
+package com.example.translator_kmm.android.voice_to_text.presentation
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
